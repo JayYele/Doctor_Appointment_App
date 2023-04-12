@@ -31,16 +31,15 @@
     <li>The app support only English language </li>
     <li>The app missing some features for the authentications such as email verification and phone verification. </li>
   </ol>
-
-  <ol type="a"><h3>The language and tolis used: Java for Android OS </h3>
-     
-      <li>roid</li>
-      <li>a</li>
-      <li>ebase</li>
-      <li>QL</li>
-      <li>roid Studio Code</li>
+<h3>The language and tolis used: Java for Android OS </h3>
+  <ol type="a">
+      <li>Anroid</li>
+      <li>Java</li>
+      <li>Firebase Database</li>
+      <li>NoSQL</li>
+      <li>Android Studio Code</li>
      </ol>
-  <h3>Github Source code link:   <h3>
+  <h3>Github Source code link: https://github.com/JayYele/Doctor_Appointment_App   <h3>
     </p>
 
 </div>
@@ -51,14 +50,15 @@
   <img src="">
 </p>
 
-Some screenshots of the Application: 
+  <h3>Some screenshots of the Application:</h3> 
+  <h4>Admin Dashboard:</h4>
 <p align="center" float="left">
 <table>
   <tr>
-    <td>Splash Screen</td>
-    <td>Home Screen</td>
-    <td>Register Screen</td>
-    <td>Login Screen</td>
+    <th>Login Screen</th>
+    <th>Admin Screen</th>
+    <th>Doctor Register Screen</th>
+    <th>Doctor Profile</th>
   </tr>
   <tr>
     <td><img src="" width="220"></td>
@@ -69,27 +69,44 @@ Some screenshots of the Application:
  </table>
  <table>
   <tr>
-    <td>Dashboard Screen</td>
-    <td>Donate Screen</td>
-    <td>Receive Screen</td>
-    <td>Food Map Screen</td>
+    <th>Patient Profile</th>
+    <th>Patient Registration</th>
   </tr>
   <tr>
     <td><img src="" width="220"></td>
     <td><img src="" width="220"></td>
-    <td><img src="" width="220"></td>
-    <td><img src="" width="220"></td>
   </tr>
  </table>
- </table>
+  <h4>Patient Dashboard:</h4>
  <table>
   <tr>
-    <td>History Screen</td>
-    <td>About Screen</td>
+    <th>Patient Dashboard</th>
+    <th>Create Appointment</th>
+    <th>Schedule Appointment</th>
+    <th>View Profile</th>
   </tr>
   <tr>
+    <td><img src="" width="220"></td>
+    <td><img src="" width="220"></td>
+    <td><img src="" width="220"></td>
+    <td><img src="" width="220"></td>
+  </tr>
+ </table>
+  <h4>Doctor Dashboard:</h4>
+ <table>
+  <tr>
+    <th>Doctor Dashboard</th>
+    <th>Requested Appointment</th>
+    <th>Schedule Appointment</th>
+    <th>View Profile</th>
+  </tr>
+  <tr>
+    <td><img src="" width="220"></td>
+    <td><img src="" width="220"></td>
     <td><img src="" width="220"></td>
     <td><img src="" width="220"></td>
   </tr>
  </table>
  </p>
+ <p>
+</p>
